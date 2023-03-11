@@ -3,7 +3,7 @@ Storage Colab Project of AI Picture Generator based on Stable-Diffusion, with Ma
 
 Thanks for Github user @camenduru's basic Stable-Diffusion colab project.
 
-https://github.com/camenduru/stable-diffusion-webui-colab/releases/tag/0.0.16
+[https://github.com/camenduru/stable-diffusion-webui-colab/releases/tag/0.0.16](https://github.com/camenduru/stable-diffusion-webui-colab#-colab)
 
 All Models are based on Stable-Diffusion V1.5
 
