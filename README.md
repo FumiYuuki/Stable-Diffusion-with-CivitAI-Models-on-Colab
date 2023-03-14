@@ -1,5 +1,7 @@
 # Stable-Diffusion-with-CivitAI-Models-on-Colab
-Storage Colab Project of AI Picture Generator based on Stable-Diffusion, with Mainstream Anime Models on CivitAi Added
+Storage Colab project of AI picture Generator based on Stable-Diffusion Web UI, added mpainstream Anime Models on CivitAi Added
+
+Running on Google Colab, so it's no need of local GPU performance.
 
 Thanks for Github user @camenduru's basic Stable-Diffusion colab project.
 
